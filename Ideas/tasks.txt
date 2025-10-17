@@ -1,7 +1,20 @@
 Roman
--godot
--c#, c++, typescript
+-godot (general research "what programming langs?")
+-c#, c++, typescript, gdscript
 
 David
 -godot
 -git basics (youtube vid)
+
+Familiaraztion Project small 2d game goals (K.I.S.S.):
+    -stat/resource tracking
+    -do tasks, collect resources
+    -simple inventory system (small to start, upgrades later)
+    -find villagers
+    -npc interactions
+    -help npc, receive game progression (building upgrades in villages)
+    -simple combat system (health)
+    -tools, weapons, armor, will affect stats
+    -forest (dungeon), simple monsters, AI, spawning mechanics, loot tables
+    -chest
+    -interactive obj for craft
