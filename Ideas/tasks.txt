@@ -1,0 +1,7 @@
+Roman
+-godot
+-c#, c++, typescript
+
+David
+-godot
+-git basics (youtube vid)
